@@ -11,7 +11,11 @@ This App contains the following Features :
 6. If there are no todos, then a list of dummy todos is shown. A sample api for this can
    be 'http://jsonplaceholder.typicode.com/todo'
    
-#Run the app by using following commands
+## Run the app by using following commands
  
 1. Flutter Clean
 2. Flutter run
+
+## Outputs
+
+![1](https://user-images.githubusercontent.com/30024247/85258799-c6f8cc00-b487-11ea-92b6-e60552dc5293.PNG)
